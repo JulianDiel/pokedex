@@ -1,1 +1,5 @@
-# pokedex
+![image](https://user-images.githubusercontent.com/52138612/184450298-3996841c-595e-4cae-ae3f-9012a6b2a121.png)
+![image](https://user-images.githubusercontent.com/52138612/184450325-735db68b-054f-42ec-ba7c-077133da6217.png)
+![image](https://user-images.githubusercontent.com/52138612/184450338-0da47860-1452-472a-88de-35d63ad42a9e.png)
+![image](https://user-images.githubusercontent.com/52138612/184450358-57e2f369-8cab-415e-92d6-fec485c44c6f.png)
+![image](https://user-images.githubusercontent.com/52138612/184450380-6cec8ec2-fc21-4407-8269-b96f41c45e7a.png)
